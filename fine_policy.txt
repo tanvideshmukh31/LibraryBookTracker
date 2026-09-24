@@ -1,0 +1,3 @@
+Fine Policy
+Late return of books will result in a fine.
+Lost books must be replaced or paid for.
