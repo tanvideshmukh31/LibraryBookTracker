@@ -1,0 +1,4 @@
+Book Search Rules
+1. Search using the book title.
+2. Search using the author's name.
+3. Display matching book records.
